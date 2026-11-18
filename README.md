@@ -1,8 +1,17 @@
 ### Hi there 👋
 
-I'm an Abap Programmer, currently working at Migo Group.
+I'm an backend Programmer.
+
+I worked as an ABAP developer for 4.5 years.
 
 My education: Bachelor in South Federal University Fundamental computer science and information technology.
+
+Now learning Go stack:
+- Go, gRPC
+- PostgreSQL, Redis
+- Kafka, ClickHouse
+- Docker, Kubernetes
+- Prometheus, Grafana
 
 <!--
 **7cout/7cout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

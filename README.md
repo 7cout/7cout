@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an backend Programmer.
+I'm a backend developer
 
 I worked as an ABAP developer for 4.5 years.
 
